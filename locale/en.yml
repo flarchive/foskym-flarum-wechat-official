@@ -1,0 +1,36 @@
+foskym-wechat-official:
+  # For more details on the format
+  # Checkout https://docs.flarum.org/extend/i18n/#appendix-a-standard-key-format
+  admin:
+    settings:
+      app_id_label: App ID
+      app_secret_label: App Secret
+      callback_url_label: Callback URL
+      enable_push_label: Enable Push Notification
+      enable_login_replace_label: Replace Login To WeChat's In WeChat
+      enable_login_replace_description: 'Replace the login button with WeChat login, if the WeChat account is not bound, it will automatically jump to the native login page'
+      enable_unbind_label: Enable Unbind WeChat Account
+      template_message_id_label: Template Message ID
+      template_message_id_description: 'Template format'
+      callback_url_description: 'Please fill in the domain name in the WeChat Official Account Platform [Web Authorization] configuration'
+
+  forum:
+    settings:
+      push_notification_label: Wechat
+      bind_wechat: Bind Wechat Account
+      wechat_linked: Wechat Account Linked
+      wechat_unlink: Unlink Wechat Account
+      wechat_unlink_success: Wechat Account Unlinked
+      notify_wechat_linked_label: Notify When Wechat Account Linked
+
+    notifications:
+      wechat_linked: 'Your Wechat account has been linked to your forum account.'
+      wechat_unlinked: 'Your Wechat account has been unlinked from your forum account.'
+
+  email:
+    wechat_linked:
+      subject: Wechat Account Linked
+      body: 'Your Wechat account has been linked to your forum account.'
+    wechat_unlinked:
+      subject: Wechat Account Unlinked
+      body: 'Your Wechat account has been unlinked from your forum account.'

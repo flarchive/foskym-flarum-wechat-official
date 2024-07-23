@@ -1,0 +1,34 @@
+foskym-wechat-official:
+  admin:
+    settings:
+      app_id_label: App ID
+      app_secret_label: App Secret
+      callback_url_label: 回调地址
+      enable_push_label: 启用推送通知
+      enable_login_replace_label: 在微信中使用微信登录替换
+      enable_login_replace_description: '将登录按钮替换为微信登录，如果微信账号未绑定，则会自动跳转到原生登录页面'
+      enable_unbind_label: 启用解绑
+      template_message_id_label: 模板消息 ID
+      template_message_id_description: '模板格式'
+      callback_url_description: '请将网站域名填入微信公众平台【网页授权】配置中'
+
+  forum:
+    settings:
+      push_notification_label: 微信
+      bind_wechat: 绑定微信账号
+      wechat_linked: 微信账号已绑定
+      wechat_unlink: 解绑微信
+      wechat_unlink_success: 微信账号已解绑
+      notify_wechat_linked_label: 绑定微信账号时通知
+
+    notifications:
+      wechat_linked: '您的微信账号已绑定到您的论坛账号。'
+      wechat_unlinked: '您的微信账号已从您的论坛账号解绑。'
+
+  email:
+    wechat_linked:
+      subject: 微信账号已绑定
+      body: '您的微信账号已绑定到您的论坛账号。'
+    wechat_unlinked:
+      subject: 微信账号已解绑
+      body: '您的微信账号已从您的论坛账号解绑。'

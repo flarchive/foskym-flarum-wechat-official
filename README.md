@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of foskym/flarum-wechat-official.** Not for installation: use [Packagist](https://packagist.org/packages/foskym/flarum-wechat-official) or the [upstream repository](https://github.com/FoskyM/flarum-wechat-official).
 
-**0** versions archived · Latest: [`v0.2.1`](https://github.com/flarchive/foskym-flarum-wechat-official/tree/archive/v0.2.1) · License: `MIT` · Flarum: `^1.8.0`
+**4** versions archived · Latest: [`v0.2.1`](https://github.com/flarchive/foskym-flarum-wechat-official/tree/archive/v0.2.1) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2024-07-23 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-wechat-official/tree/archive/v0.1.0) |
+| `v0.1.1` | 2024-07-23 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-wechat-official/tree/archive/v0.1.1) |
+| `v0.2.0` | 2024-09-17 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-wechat-official/tree/archive/v0.2.0) |
+| `v0.2.1` | 2024-09-17 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-wechat-official/tree/archive/v0.2.1) |
 
 Catalog entry: [packages/foskym-flarum-wechat-official.json](https://github.com/flarchive/archive-index/blob/main/packages/foskym-flarum-wechat-official.json)
 
